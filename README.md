@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome
+
+My name is Derek Xu, and I am a first year Computer Science major at UC Irvine who is planning to minor in Informatics. My other interests include other forms of engineering, math, and science, especially physics. As a CS major, I am currently learning about logic, discrete mathematics, and programming with Python libraries that perform tasks such as navigate filesystems and communicate to servers. Feel free to check out my projects and repositories!
+
+**Links**
+* [Portfolio](https://hctsmsl2018.github.io/portfolio/)
+* [Resume](https://hctsmsl2018.github.io/portfolio/pdf_documents/Resume_DerekXu.pdf)
 
 <!--
 **hctsmsl2018/hctsmsl2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
