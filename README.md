@@ -1,6 +1,6 @@
 ### Welcome
 
-My name is Derek Xu, and I am a second year Computer Science major at UC Irvine who is planning to minor in Informatics. My other interests include other forms of engineering, math, and science, especially physics. Outside of class, I am learning more about web development, data analysis, and machine learning. Feel free to check out my projects and repositories!
+My name is Derek Xu, and I am a third year Computer Science major at UC Irvine also minoring in Informatics. My other interests include other forms of engineering, math, and science, especially physics. Outside of class, I am learning more about web development, data analysis, and machine learning. Feel free to check out my projects and repositories!
 
 **Links**
 * [Portfolio](https://hctsmsl2018.github.io)
